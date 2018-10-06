@@ -1,0 +1,12 @@
+[
+	{
+		"batteryModelId": "0",
+		"batteryModelName": "--Select--",
+		"batteryModelListId": "mainContentPlaceHolder_cb_BT_MODEL_ID_chzn_o_0"
+	},
+	{
+		"batteryModelId": "FNS-LI78",
+		"batteryModelName": "FNS-LI78",
+		"batteryModelListId": "mainContentPlaceHolder_cb_BT_MODEL_ID_chzn_o_1"
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"chargeControllerModelId": "0",
+		"chargeControllerModelName": "--Select--",
+		"chargeControllerModelListId": "mainContentPlaceHolder_cb_CC_MODEL_ID_chzn_o_0"
+	},
+	{
+		"chargeControllerModelId": "FNS/TP310B",
+		"chargeControllerModelName": "FNS/TP310B",
+		"chargeControllerModelListId": "mainContentPlaceHolder_cb_CC_MODEL_ID_chzn_o_1"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"mobilechargeId": "0",
+		"mobilechargeName": "--Select--",
+		"mobilechargeListId":"mainContentPlaceHolder_cb_HAS_MOBILE_CHARGE_chzn_o_0"
+	},
+	{
+		"mobilechargeId": "1",
+		"mobilechargeName": "Yes",
+		"mobilechargeListId":"mainContentPlaceHolder_cb_HAS_MOBILE_CHARGE_chzn_o_1"
+	},
+	{
+		"mobilechargeId": "2",
+		"mobilechargeName": "No",
+		"mobilechargeListId":"mainContentPlaceHolder_cb_HAS_MOBILE_CHARGE_chzn_o_2"
+	}
+]

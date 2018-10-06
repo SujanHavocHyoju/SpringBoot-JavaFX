@@ -1,0 +1,17 @@
+[
+	{
+		"televisionId": "0",
+		"televisionName": "--Select--",
+		"televisionListId":"mainContentPlaceHolder_cb_HAS_TELEVISION_chzn_o_0"
+	},
+	{
+		"televisionId": "1",
+		"televisionName": "Yes",
+		"televisionListId":"mainContentPlaceHolder_cb_HAS_TELEVISION_chzn_o_1"
+	},
+	{
+		"televisionId": "2",
+		"televisionName": "No",
+		"televisionListId":"mainContentPlaceHolder_cb_HAS_TELEVISION_chzn_o_2"
+	}
+]

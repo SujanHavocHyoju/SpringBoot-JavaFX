@@ -1,0 +1,382 @@
+[
+	{
+		"citizenDistrictId": "0",
+		"citizenDistrictName": "--Select--",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_0"
+	},
+	{
+		"citizenDistrictId": "01",
+		"citizenDistrictName": "Taplejung",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_1"
+	},
+	{
+		"citizenDistrictId": "02",
+		"citizenDistrictName": "Panchthar",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_2"
+	},
+	{
+		"citizenDistrictId": "03",
+		"citizenDistrictName": "Ilam",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_3"
+	},
+	{
+		"citizenDistrictId": "04",
+		"citizenDistrictName": "Jhapa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_4"
+	},
+	{
+		"citizenDistrictId": "05",
+		"citizenDistrictName": "Sankhuwasabha",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_5"
+	},
+	{
+		"citizenDistrictId": "06",
+		"citizenDistrictName": "Terhathum",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_6"
+	},
+	{
+		"citizenDistrictId": "07",
+		"citizenDistrictName": "Bhojpur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_7"
+	},
+	{
+		"citizenDistrictId": "08",
+		"citizenDistrictName": "Dhankuta",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_8"
+	},
+	{
+		"citizenDistrictId": "09",
+		"citizenDistrictName": "Morang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_9"
+	},
+	{
+		"citizenDistrictId": "10",
+		"citizenDistrictName": "Sunsari",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_10"
+	},
+	{
+		"citizenDistrictId": "11",
+		"citizenDistrictName": "Solukhumbu",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_11"
+	},
+	{
+		"citizenDistrictId": "12",
+		"citizenDistrictName": "Khotang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_12"
+	},
+	{
+		"citizenDistrictId": "13",
+		"citizenDistrictName": "Okhaldhunga",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_13"
+	},
+	{
+		"citizenDistrictId": "14",
+		"citizenDistrictName": "Udayapur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_14"
+	},
+	{
+		"citizenDistrictId": "15",
+		"citizenDistrictName": "Saptari",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_15"
+	},
+	{
+		"citizenDistrictId": "16",
+		"citizenDistrictName": "Siraha",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_16"
+	},
+	{
+		"citizenDistrictId": "17",
+		"citizenDistrictName": "Dolakha",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_17"
+	},
+	{
+		"citizenDistrictId": "18",
+		"citizenDistrictName": "Ramechhap",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_18"
+	},
+	{
+		"citizenDistrictId": "19",
+		"citizenDistrictName": "Sindhuli",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_19"
+	},
+	{
+		"citizenDistrictId": "20",
+		"citizenDistrictName": "Dhanusa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_20"
+	},
+	{
+		"citizenDistrictId": "21",
+		"citizenDistrictName": "Mahottari",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_21"
+	},
+	{
+		"citizenDistrictId": "22",
+		"citizenDistrictName": "Sarlahi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_22"
+	},
+	{
+		"citizenDistrictId": "23",
+		"citizenDistrictName": "Sindhupalchowk",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_23"
+	},
+	{
+		"citizenDistrictId": "24",
+		"citizenDistrictName": "Kavrepalanchowk",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_24"
+	},
+	{
+		"citizenDistrictId": "25",
+		"citizenDistrictName": "Bhaktapur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_25"
+	},
+	{
+		"citizenDistrictId": "26",
+		"citizenDistrictName": "Lalitpur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_26"
+	},
+	{
+		"citizenDistrictId": "27",
+		"citizenDistrictName": "Kathmandu",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_27"
+	},
+	{
+		"citizenDistrictId": "28",
+		"citizenDistrictName": "Rasuwa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_28"
+	},
+	{
+		"citizenDistrictId": "29",
+		"citizenDistrictName": "Nuwakot",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_29"
+	},
+	{
+		"citizenDistrictId": "30",
+		"citizenDistrictName": "Dhading",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_30"
+	},
+	{
+		"citizenDistrictId": "31",
+		"citizenDistrictName": "Rautahat",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_31"
+	},
+	{
+		"citizenDistrictId": "32",
+		"citizenDistrictName": "Makawanpur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_32"
+	},
+	{
+		"citizenDistrictId": "33",
+		"citizenDistrictName": "Bara",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_33"
+	},
+	{
+		"citizenDistrictId": "34",
+		"citizenDistrictName": "Parsa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_34"
+	},
+	{
+		"citizenDistrictId": "35",
+		"citizenDistrictName": "Chitwan",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_35"
+	},
+	{
+		"citizenDistrictId": "36",
+		"citizenDistrictName": "Gorkha",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_36"
+	},
+	{
+		"citizenDistrictId": "37",
+		"citizenDistrictName": "Lamjung",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_37"
+	},
+	{
+		"citizenDistrictId": "38",
+		"citizenDistrictName": "Tanahu",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_38"
+	},
+	{
+		"citizenDistrictId": "39",
+		"citizenDistrictName": "Manang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_39"
+	},
+	{
+		"citizenDistrictId": "40",
+		"citizenDistrictName": "Kaski",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_40"
+	},
+	{
+		"citizenDistrictId": "41",
+		"citizenDistrictName": "Syangja",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_41"
+	},
+	{
+		"citizenDistrictId": "42",
+		"citizenDistrictName": "Nawalparasi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_42"
+	},
+	{
+		"citizenDistrictId": "43",
+		"citizenDistrictName": "Palpa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_43"
+	},
+	{
+		"citizenDistrictId": "44",
+		"citizenDistrictName": "Rupandehi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_44"
+	},
+	{
+		"citizenDistrictId": "45",
+		"citizenDistrictName": "Gulmi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_45"
+	},
+	{
+		"citizenDistrictId": "46",
+		"citizenDistrictName": "Kapilbastu",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_46"
+	},
+	{
+		"citizenDistrictId": "47",
+		"citizenDistrictName": "Arghakhanchi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_47"
+	},
+	{
+		"citizenDistrictId": "48",
+		"citizenDistrictName": "Mustang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_48"
+	},
+	{
+		"citizenDistrictId": "49",
+		"citizenDistrictName": "Myagdi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_49"
+	},
+	{
+		"citizenDistrictId": "50",
+		"citizenDistrictName": "Parbat",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_50"
+	},
+	{
+		"citizenDistrictId": "51",
+		"citizenDistrictName": "Baglung",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_51"
+	},
+	{
+		"citizenDistrictId": "52",
+		"citizenDistrictName": "Pyuthan",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_52"
+	},
+	{
+		"citizenDistrictId": "53",
+		"citizenDistrictName": "Rukum",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_53"
+	},
+	{
+		"citizenDistrictId": "54",
+		"citizenDistrictName": "Rolpa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_54"
+	},
+	{
+		"citizenDistrictId": "55",
+		"citizenDistrictName": "Dang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_55"
+	},
+	{
+		"citizenDistrictId": "56",
+		"citizenDistrictName": "Salyan",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_56"
+	},
+	{
+		"citizenDistrictId": "57",
+		"citizenDistrictName": "Jajarkot",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_57"
+	},
+	{
+		"citizenDistrictId": "58",
+		"citizenDistrictName": "Banke",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_58"
+	},
+	{
+		"citizenDistrictId": "59",
+		"citizenDistrictName": "Bardiya",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_59"
+	},
+	{
+		"citizenDistrictId": "60",
+		"citizenDistrictName": "Surkhet",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_60"
+	},
+	{
+		"citizenDistrictId": "61",
+		"citizenDistrictName": "Dailekh",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_61"
+	},
+	{
+		"citizenDistrictId": "62",
+		"citizenDistrictName": "Dolpa",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_62"
+	},
+	{
+		"citizenDistrictId": "63",
+		"citizenDistrictName": "Jumla",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_63"
+	},
+	{
+		"citizenDistrictId": "64",
+		"citizenDistrictName": "Kalikot",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_64"
+	},
+	{
+		"citizenDistrictId": "65",
+		"citizenDistrictName": "Mugu",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_65"
+	},
+	{
+		"citizenDistrictId": "66",
+		"citizenDistrictName": "Humla",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_66"
+	},
+	{
+		"citizenDistrictId": "67",
+		"citizenDistrictName": "Bajura",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_67"
+	},
+	{
+		"citizenDistrictId": "68",
+		"citizenDistrictName": "Achham",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_68"
+	},
+	{
+		"citizenDistrictId": "69",
+		"citizenDistrictName": "Kailali",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_69"
+	},
+	{
+		"citizenDistrictId": "70",
+		"citizenDistrictName": "Doti",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_70"
+	},
+	{
+		"citizenDistrictId": "71",
+		"citizenDistrictName": "Bajhang",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_71"
+	},
+	{
+		"citizenDistrictId": "72",
+		"citizenDistrictName": "Darchula",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_72"
+	},
+	{
+		"citizenDistrictId": "73",
+		"citizenDistrictName": "Baitadi",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_73"
+	},
+	{
+		"citizenDistrictId": "74",
+		"citizenDistrictName": "Dadeldhura",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_74"
+	},
+	{
+		"citizenDistrictId": "75",
+		"citizenDistrictName": "Kanchanpur",
+		"citizenDistrictListId": "mainContentPlaceHolder_cb_CTZ_DIST_ID_chzn_o_75"
+	}
+]

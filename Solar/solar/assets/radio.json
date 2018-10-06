@@ -1,0 +1,17 @@
+[
+	{
+		"radioId": "0",
+		"radioName": "--Select--",
+		"radioListId":"mainContentPlaceHolder_cb_HAS_RADIO_chzn_o_0"
+	},
+	{
+		"radioId": "1",
+		"radioName": "Yes",
+		"radioListId":"mainContentPlaceHolder_cb_HAS_RADIO_chzn_o_1"
+	},
+	{
+		"radioId": "2",
+		"radioName": "No",
+		"radioListId":"mainContentPlaceHolder_cb_HAS_RADIO_chzn_o_2"
+	}
+]

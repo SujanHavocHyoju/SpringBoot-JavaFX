@@ -1,0 +1,22 @@
+[
+  {
+    "assTypeId": "0",
+    "assTypeName": "--Select--",
+    "assTypeListId":"mainContentPlaceHolder_cb_ASS_TYPE_chzn_o_0"
+  },
+  {
+    "assTypeId": "1",
+    "assTypeName": "Branch",
+	"assTypeListId":"mainContentPlaceHolder_cb_ASS_TYPE_chzn_o_1"
+  },
+  {
+    "assTypeId": "2",
+    "assTypeName": "Dealer",
+	"assTypeListId":"mainContentPlaceHolder_cb_ASS_TYPE_chzn_o_2"
+  },
+  {
+    "assTypeId": "3",
+    "assTypeName": "Agent",
+	"assTypeListId":"mainContentPlaceHolder_cb_ASS_TYPE_chzn_o_3"
+  }
+]

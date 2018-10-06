@@ -1,0 +1,432 @@
+[
+	{
+		"lampManufacturerId": "0",
+		"lampManufacturerName": "--Select--",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_0"
+	},
+	{
+		"lampManufacturerId": "ALKA",
+		"lampManufacturerName": "Alka Enterprises",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_1"
+	},
+	{
+		"lampManufacturerId": "AMMINI",
+		"lampManufacturerName": "Ammini Energy Systems",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_2"
+	},
+	{
+		"lampManufacturerId": "BEIJING",
+		"lampManufacturerName": "beijing episolar",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_3"
+	},
+	{
+		"lampManufacturerId": "CCSIMP",
+		"lampManufacturerName": "Ccsimp& Exp(Ningbo) Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_4"
+	},
+	{
+		"lampManufacturerId": "CCSIMPCO",
+		"lampManufacturerName": "CCSIMPCO sunrey Energy",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_5"
+	},
+	{
+		"lampManufacturerId": "DSE",
+		"lampManufacturerName": "DSE Co ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_6"
+	},
+	{
+		"lampManufacturerId": "DURON",
+		"lampManufacturerName": "Duron Energy Pvt. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_7"
+	},
+	{
+		"lampManufacturerId": "EFL",
+		"lampManufacturerName": "Eureka Forbes limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_8"
+	},
+	{
+		"lampManufacturerId": "ESUN",
+		"lampManufacturerName": "Esun Electronic co ltd Birat energy",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_9"
+	},
+	{
+		"lampManufacturerId": "EVER",
+		"lampManufacturerName": "Everexceed Solr Corp Pte. Ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_10"
+	},
+	{
+		"lampManufacturerId": "EVEREST LAMP",
+		"lampManufacturerName": "Everest Solar pvt.ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_11"
+	},
+	{
+		"lampManufacturerId": "EVERESTLAMP",
+		"lampManufacturerName": "Everest Solar Energy Pvt. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_12"
+	},
+	{
+		"lampManufacturerId": "EVEREXCEED",
+		"lampManufacturerName": "Everexceed Solar corp Pte .Ltd Smart Power",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_13"
+	},
+	{
+		"lampManufacturerId": "FAB",
+		"lampManufacturerName": "Fabrica de Artigos de Plastico Hip Va Hong Kong",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_14"
+	},
+	{
+		"lampManufacturerId": "GENEP",
+		"lampManufacturerName": "Genep Energy System Pvt. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_15"
+	},
+	{
+		"lampManufacturerId": "GENEPL",
+		"lampManufacturerName": "Genep Energy System Pvt. Ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_16"
+	},
+	{
+		"lampManufacturerId": "GLLT",
+		"lampManufacturerName": "Guangzhou Linong Lighting Technology",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_17"
+	},
+	{
+		"lampManufacturerId": "GTD",
+		"lampManufacturerName": "Green Tech Distribution",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_18"
+	},
+	{
+		"lampManufacturerId": "HKC",
+		"lampManufacturerName": "HK Century Aluminium & Hardware Co. Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_19"
+	},
+	{
+		"lampManufacturerId": "HLT",
+		"lampManufacturerName": "Hefei Liuming New Energy Technology Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_20"
+	},
+	{
+		"lampManufacturerId": "HMT",
+		"lampManufacturerName": "Hardik Medi-Tech",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_21"
+	},
+	{
+		"lampManufacturerId": "HNT",
+		"lampManufacturerName": "Hongkong Neway Tech Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_22"
+	},
+	{
+		"lampManufacturerId": "HONG",
+		"lampManufacturerName": "Hangzhou Wibi Electronics Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_23"
+	},
+	{
+		"lampManufacturerId": "HQE",
+		"lampManufacturerName": "Hangzhou Qibi Electronics Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_24"
+	},
+	{
+		"lampManufacturerId": "INN",
+		"lampManufacturerName": "Innovative Technologies Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_25"
+	},
+	{
+		"lampManufacturerId": "IPL",
+		"lampManufacturerName": "InstaPower Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_26"
+	},
+	{
+		"lampManufacturerId": "ITL",
+		"lampManufacturerName": "Innovative Technologies Ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_27"
+	},
+	{
+		"lampManufacturerId": "L-0084",
+		"lampManufacturerName": "DPA Optoelectronics (Thailand) Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_28"
+	},
+	{
+		"lampManufacturerId": "L-0085",
+		"lampManufacturerName": "Powerwell Solar Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_29"
+	},
+	{
+		"lampManufacturerId": "LDLL",
+		"lampManufacturerName": "Labcraft Design Led Lighting",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_30"
+	},
+	{
+		"lampManufacturerId": "LEDSUN",
+		"lampManufacturerName": "ledsun Hi Teach co ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_31"
+	},
+	{
+		"lampManufacturerId": "LIANG",
+		"lampManufacturerName": "liang guang Shang co",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_32"
+	},
+	{
+		"lampManufacturerId": "LPK",
+		"lampManufacturerName": "Linkone Power Company Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_33"
+	},
+	{
+		"lampManufacturerId": "LSL",
+		"lampManufacturerName": "Lasersun Energy Pvt. Ltd.(Osram)",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_34"
+	},
+	{
+		"lampManufacturerId": "LTL",
+		"lampManufacturerName": "Lotus Energy",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_35"
+	},
+	{
+		"lampManufacturerId": "MAINHOUSE",
+		"lampManufacturerName": "Mainhouse (Xiamen) electronics co. ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_36"
+	},
+	{
+		"lampManufacturerId": "MTG",
+		"lampManufacturerName": "Mindtech Group (H.K) Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_37"
+	},
+	{
+		"lampManufacturerId": "NBIE",
+		"lampManufacturerName": "Ningbo Beitong Imp. & Exp. Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_38"
+	},
+	{
+		"lampManufacturerId": "NEW",
+		"lampManufacturerName": "New Concept  business  co. ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_39"
+	},
+	{
+		"lampManufacturerId": "NIGMO KOMES",
+		"lampManufacturerName": "Suryodaya Urja Wled",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_40"
+	},
+	{
+		"lampManufacturerId": "NIGMO KOMES SOLAR",
+		"lampManufacturerName": "Ningmo Komes Solar",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_41"
+	},
+	{
+		"lampManufacturerId": "NIGMO KOMES SOLAR SM",
+		"lampManufacturerName": "Ningmo Komes Solar",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_41"
+	},
+	{
+		"lampManufacturerId": "NINGBO",
+		"lampManufacturerName": "ningbo komes solar Technology Co .ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_43"
+	},
+	{
+		"lampManufacturerId": "NINGBO ELITE",
+		"lampManufacturerName": "Ningbo Elite Industries pvt lTd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_44"
+	},
+	{
+		"lampManufacturerId": "NTWICL",
+		"lampManufacturerName": "Ningbo Tulip Electron (Industrial) Co., Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_45"
+	},
+	{
+		"lampManufacturerId": "PEIL",
+		"lampManufacturerName": "phillips Electronics India Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_46"
+	},
+	{
+		"lampManufacturerId": "PGE",
+		"lampManufacturerName": "PT Guna Elektro",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_47"
+	},
+	{
+		"lampManufacturerId": "PIC",
+		"lampManufacturerName": "Penel International Co. Liited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_48"
+	},
+	{
+		"lampManufacturerId": "PIS",
+		"lampManufacturerName": "Phocos India Solar Pvt. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_49"
+	},
+	{
+		"lampManufacturerId": "PT GUNA",
+		"lampManufacturerName": "PT Guna Elektro",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_47"
+	},
+	{
+		"lampManufacturerId": "PTS",
+		"lampManufacturerName": "PT Sundaya Indonesia",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_51"
+	},
+	{
+		"lampManufacturerId": "RADIO",
+		"lampManufacturerName": "Radio",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_52"
+	},
+	{
+		"lampManufacturerId": "RSTCLCC",
+		"lampManufacturerName": "Rising Solar Technology Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_53"
+	},
+	{
+		"lampManufacturerId": "SDU",
+		"lampManufacturerName": "Suryadaya Urja",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_54"
+	},
+	{
+		"lampManufacturerId": "SEC",
+		"lampManufacturerName": "Solar Electricity Company",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_55"
+	},
+	{
+		"lampManufacturerId": "SHANGYU",
+		"lampManufacturerName": "Shangyu Yuanhen Lighting appliance co ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_56"
+	},
+	{
+		"lampManufacturerId": "SHENZHEN",
+		"lampManufacturerName": "Shenzhen jing xin long optoelec tech com ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_57"
+	},
+	{
+		"lampManufacturerId": "SHENZHEN EVER",
+		"lampManufacturerName": "Shenzhen Everluster Opto Electronic Co.Ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_58"
+	},
+	{
+		"lampManufacturerId": "SMA",
+		"lampManufacturerName": "Shenzhen Smalite Opto-electric Co. ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_59"
+	},
+	{
+		"lampManufacturerId": "SOL",
+		"lampManufacturerName": "Solar Land Corporation",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_60"
+	},
+	{
+		"lampManufacturerId": "SOLARLAND",
+		"lampManufacturerName": "Solarland corporation Wiled",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_61"
+	},
+	{
+		"lampManufacturerId": "SPS",
+		"lampManufacturerName": "Shenzhen Power Solution ind. Co. ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_62"
+	},
+	{
+		"lampManufacturerId": "SUN",
+		"lampManufacturerName": "PT Sundaya",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_63"
+	},
+	{
+		"lampManufacturerId": "SUNDAY",
+		"lampManufacturerName": "SUNDAY",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_64"
+	},
+	{
+		"lampManufacturerId": "SUNIX",
+		"lampManufacturerName": "Sunrise Energy & Accessories Works",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_65"
+	},
+	{
+		"lampManufacturerId": "SUNRISE",
+		"lampManufacturerName": "Sunrise Energy and Works",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_66"
+	},
+	{
+		"lampManufacturerId": "SUNTECH",
+		"lampManufacturerName": "Suntech Energy Co.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_67"
+	},
+	{
+		"lampManufacturerId": "SUNTECHNIC",
+		"lampManufacturerName": "Suntechnics  STL-0",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_68"
+	},
+	{
+		"lampManufacturerId": "SUPREME",
+		"lampManufacturerName": "Supreme solar (p) ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_69"
+	},
+	{
+		"lampManufacturerId": "TIL",
+		"lampManufacturerName": "Tanona International Limited",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_70"
+	},
+	{
+		"lampManufacturerId": "TOPSUN ENERGY",
+		"lampManufacturerName": "Topsun Energy pvt. ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_71"
+	},
+	{
+		"lampManufacturerId": "TV",
+		"lampManufacturerName": "TV",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_72"
+	},
+	{
+		"lampManufacturerId": "WUXI",
+		"lampManufacturerName": "china Machinery engineering Wuxi.co.LTD ",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_73"
+	},
+	{
+		"lampManufacturerId": "XIAMEN",
+		"lampManufacturerName": "Xiamen Condour Co. ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_74"
+	},
+	{
+		"lampManufacturerId": "XIMEN",
+		"lampManufacturerName": "ximen candour co.ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_75"
+	},
+	{
+		"lampManufacturerId": "XIMEN EVERWIN",
+		"lampManufacturerName": "ximen everwin led- tech",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_76"
+	},
+	{
+		"lampManufacturerId": "YIZHENG",
+		"lampManufacturerName": "Yizheng Karmal",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_77"
+	},
+	{
+		"lampManufacturerId": "YUK",
+		"lampManufacturerName": "Yuk Trading Company",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_78"
+	},
+	{
+		"lampManufacturerId": "ZHEJIANG",
+		"lampManufacturerName": "Zhejiang Macro-solar Technology Co. Ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_79"
+	},
+	{
+		"lampManufacturerId": "ZHEJIANG CHANG",
+		"lampManufacturerName": "Zhejiang Chang Yong optoelectronics tech",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_80"
+	},
+	{
+		"lampManufacturerId": "ZHEJIANG LIANGERLI",
+		"lampManufacturerName": "Zhejiang liangerli photoelectric teach co.ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_81"
+	},
+	{
+		"lampManufacturerId": "ZHJIANG GLOBRIGHT",
+		"lampManufacturerName": "ZHJIANG GLOBRIGHT",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_82"
+	},
+	{
+		"lampManufacturerId": "ZHONGSHAN",
+		"lampManufacturerName": "Zhongshan Sitelang Optoelectronic tech Co",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_83"
+	},
+	{
+		"lampManufacturerId": "ZLLC",
+		"lampManufacturerName": "zhongshan liyinled lighing co. ltd.",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_84"
+	},
+	{
+		"lampManufacturerId": "ZYLE",
+		"lampManufacturerName": "Zhongshan yuefeng lighting & Electrical Co. Ltd",
+		"lampManufacturerListId": "mainContentPlaceHolder_cb_LM_MANU_ID_chzn_o_85"
+	}
+]

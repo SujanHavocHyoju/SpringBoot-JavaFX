@@ -1,0 +1,292 @@
+[
+	{
+		"batteryManufacturerId": "0",
+		"batteryManufacturerName": "--Select--",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_0"
+	},
+	{
+		"batteryManufacturerId": "ABC",
+		"batteryManufacturerName": "Abdullah Battery Co. Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_1"
+	},
+	{
+		"batteryManufacturerId": "ABDULLAH",
+		"batteryManufacturerName": "Abdhulah Battery Co. Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_2"
+	},
+	{
+		"batteryManufacturerId": "ADDO",
+		"batteryManufacturerName": "Eastman Auto & Power Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_3"
+	},
+	{
+		"batteryManufacturerId": "AMBI",
+		"batteryManufacturerName": "Amtek Batteries, India",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_4"
+	},
+	{
+		"batteryManufacturerId": "AMC",
+		"batteryManufacturerName": "Amalgamated Metal Corporation",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_5"
+	},
+	{
+		"batteryManufacturerId": "ASIAN",
+		"batteryManufacturerName": "Asian Batteries Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_6"
+	},
+	{
+		"batteryManufacturerId": "B-0052",
+		"batteryManufacturerName": "Shree Jagdamba Battery Udhyog (P) Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_7"
+	},
+	{
+		"batteryManufacturerId": "B-0053",
+		"batteryManufacturerName": "Jagadamba Battery Udhyog",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_8"
+	},
+	{
+		"batteryManufacturerId": "B-0054",
+		"batteryManufacturerName": "Urja Batteries Limited",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_9"
+	},
+	{
+		"batteryManufacturerId": "B-0055",
+		"batteryManufacturerName": "FNS Power Technology Inc.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_10"
+	},
+	{
+		"batteryManufacturerId": "B-0056",
+		"batteryManufacturerName": "Marathon Batteries Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_11"
+	},
+	{
+		"batteryManufacturerId": "B-0057",
+		"batteryManufacturerName": "China Machinery Engineering Wuxi Co. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_12"
+	},
+	{
+		"batteryManufacturerId": "BDP",
+		"batteryManufacturerName": "Bisha Developers Pvt. Ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_13"
+	},
+	{
+		"batteryManufacturerId": "BHARAT",
+		"batteryManufacturerName": "Bharat Accumulators Ltd. (Urja Battries Limited)",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_14"
+	},
+	{
+		"batteryManufacturerId": "BISHA",
+		"batteryManufacturerName": "Bisha Developers pvt. ltd (smart)",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_15"
+	},
+	{
+		"batteryManufacturerId": "BTP",
+		"batteryManufacturerName": "Bindal Technopolymer Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_16"
+	},
+	{
+		"batteryManufacturerId": "CMI",
+		"batteryManufacturerName": "Castwell Metal Industries",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_17"
+	},
+	{
+		"batteryManufacturerId": "DBS",
+		"batteryManufacturerName": "Daramic Battery Separator India Pvt Ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_18"
+	},
+	{
+		"batteryManufacturerId": "DEEPAK",
+		"batteryManufacturerName": "Deepak  power storages",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_19"
+	},
+	{
+		"batteryManufacturerId": "EASTMAN",
+		"batteryManufacturerName": "Eastman Auto & Power Ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_20"
+	},
+	{
+		"batteryManufacturerId": "EIL",
+		"batteryManufacturerName": "Exide Industries Limited",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_21"
+	},
+	{
+		"batteryManufacturerId": "EXCIDE",
+		"batteryManufacturerName": "Excide Industries Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_22"
+	},
+	{
+		"batteryManufacturerId": "FIRSTPOWER",
+		"batteryManufacturerName": "First Power Battery  Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_23"
+	},
+	{
+		"batteryManufacturerId": "FST",
+		"batteryManufacturerName": "Far East First New Energy Co. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_24"
+	},
+	{
+		"batteryManufacturerId": "GEM",
+		"batteryManufacturerName": "Gem Batteries Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_25"
+	},
+	{
+		"batteryManufacturerId": "HAMKO",
+		"batteryManufacturerName": "Abdhulah Battery Co. Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_2"
+	},
+	{
+		"batteryManufacturerId": "HBL",
+		"batteryManufacturerName": "HBL Power Systems Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_27"
+	},
+	{
+		"batteryManufacturerId": "HNS",
+		"batteryManufacturerName": "HNS Tech Enterprise",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_28"
+	},
+	{
+		"batteryManufacturerId": "HOLLANDIA",
+		"batteryManufacturerName": "Hollandai",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_29"
+	},
+	{
+		"batteryManufacturerId": "INCOE",
+		"batteryManufacturerName": "Incoe Battery",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_30"
+	},
+	{
+		"batteryManufacturerId": "INZEN",
+		"batteryManufacturerName": "Inzen Power Solution PVt ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_31"
+	},
+	{
+		"batteryManufacturerId": "IPS",
+		"batteryManufacturerName": "Inzen Power Solutions Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_32"
+	},
+	{
+		"batteryManufacturerId": "KULAYAN",
+		"batteryManufacturerName": "Kulayan Batteries Industry",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_33"
+	},
+	{
+		"batteryManufacturerId": "KULYAN",
+		"batteryManufacturerName": "Kulayan Battery Industry Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_34"
+	},
+	{
+		"batteryManufacturerId": "LEL",
+		"batteryManufacturerName": "Leadstone Energy Limited",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_35"
+	},
+	{
+		"batteryManufacturerId": "LEOCH",
+		"batteryManufacturerName": "Shenzhen Leoch Battery Technology Co.Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_36"
+	},
+	{
+		"batteryManufacturerId": "LUMINOUS",
+		"batteryManufacturerName": "Luminous Power Technology Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_37"
+	},
+	{
+		"batteryManufacturerId": "MNT",
+		"batteryManufacturerName": "Mn&T Sdn Bhd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_38"
+	},
+	{
+		"batteryManufacturerId": "MTP",
+		"batteryManufacturerName": "Metafield Trade Pte Ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_39"
+	},
+	{
+		"batteryManufacturerId": "RACILY",
+		"batteryManufacturerName": "Racily udyog",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_40"
+	},
+	{
+		"batteryManufacturerId": "RAHIMAFROOZ",
+		"batteryManufacturerName": "Rahimafrooz Accumlaters  limited (VOLTA)",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_41"
+	},
+	{
+		"batteryManufacturerId": "RFZ",
+		"batteryManufacturerName": "Rahimafrooz Accumulators Limited",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_42"
+	},
+	{
+		"batteryManufacturerId": "SFL",
+		"batteryManufacturerName": "Solar Frontier Ltd. Japan",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_43"
+	},
+	{
+		"batteryManufacturerId": "SHANDONG",
+		"batteryManufacturerName": "shandong sacredusn power sources co.ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_44"
+	},
+	{
+		"batteryManufacturerId": "SIPRADI",
+		"batteryManufacturerName": "Luminious Power Technologies Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_45"
+	},
+	{
+		"batteryManufacturerId": "SOLARLAND",
+		"batteryManufacturerName": "Solarland Solar Technology & Solution",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_46"
+	},
+	{
+		"batteryManufacturerId": "SOUTHERN",
+		"batteryManufacturerName": "Southern Batteries Pvt. ltd",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_47"
+	},
+	{
+		"batteryManufacturerId": "SPB",
+		"batteryManufacturerName": "Sparco batteries Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_48"
+	},
+	{
+		"batteryManufacturerId": "STAR",
+		"batteryManufacturerName": "Star Battery Limited",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_49"
+	},
+	{
+		"batteryManufacturerId": "SUNDAYA",
+		"batteryManufacturerName": "Sundaya",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_50"
+	},
+	{
+		"batteryManufacturerId": "SUNERA",
+		"batteryManufacturerName": "SUNERA Battery/Kulyan",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_51"
+	},
+	{
+		"batteryManufacturerId": "TFR",
+		"batteryManufacturerName": "Taken for Repair",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_52"
+	},
+	{
+		"batteryManufacturerId": "TMEP",
+		"batteryManufacturerName": "Trident Metal Energy Pvt. Ltd.",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_53"
+	},
+	{
+		"batteryManufacturerId": "TRB",
+		"batteryManufacturerName": "Trojan Battery",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_54"
+	},
+	{
+		"batteryManufacturerId": "UKB",
+		"batteryManufacturerName": "Unikor Battery Company Pvt. Ltd.(MX Volta)",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_55"
+	},
+	{
+		"batteryManufacturerId": "USBATTERY",
+		"batteryManufacturerName": "US Battery",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_56"
+	},
+	{
+		"batteryManufacturerId": "VI",
+		"batteryManufacturerName": "Vishwakarma Industries",
+		"batteryManufacturerListId": "mainContentPlaceHolder_cb_BT_MANU_ID_chzn_o_57"
+	}
+]

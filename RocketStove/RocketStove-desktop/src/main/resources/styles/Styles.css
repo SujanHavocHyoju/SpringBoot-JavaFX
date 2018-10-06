@@ -1,0 +1,10 @@
+.button {
+    -fx-font-weight: bold;
+}
+.jfx-snackbar-content{
+    -fx-background-color: #000000
+}
+.jfx-snackbar-toast{
+    -fx-text-fill: #FFFFFF
+}
+

@@ -1,0 +1,52 @@
+[
+  {
+    "installerId": "0",
+    "installerName": "--Select--",
+    "installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_0"
+  },
+  {
+    "installerId": "C034I001",
+    "installerName": "Mohan Bahadur Basnet",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_1"
+  },
+  {
+    "installerId": "C034I002",
+    "installerName": "Jiban Shah",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_2"
+  },
+  {
+    "installerId": "C034I003",
+    "installerName": "Rabindra Khatri",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_3"
+  },
+  {
+    "installerId": "C034I004",
+    "installerName": "dhan bahadur budha",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_4"
+  },
+  {
+    "installerId": "C034I005",
+    "installerName": "Pradip Kumar Paudel",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_5"
+  },
+  {
+    "installerId": "C034I006",
+    "installerName": "Kiran Kumar Shrestha",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_6"
+  },
+  {
+    "installerId": "C034I007",
+    "installerName": "Rajkumar baidya",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_7"
+  },
+  {
+    "installerId": "C034I008",
+    "installerName": "Suresh kumar thing",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_8"
+  },
+  {
+    "installerId": "C034I009",
+    "installerName": "Shyam kumar karki",
+	"installerListId":"mainContentPlaceHolder_cb_INSTALLER_chzn_o_9"
+  }
+]

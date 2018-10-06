@@ -1,0 +1,17 @@
+[
+	{
+		"lampModelId": "0",
+		"lampModelName": "--Select--",
+		"lampModelListId":"mainContentPlaceHolder_cb_LM_MODEL_ID_chzn_o_0"
+	},
+	{
+		"lampModelId": "ESC-2L",
+		"lampModelName": "ESC-2L",
+		"lampModelListId":"mainContentPlaceHolder_cb_LM_MODEL_ID_chzn_o_1"
+	},
+	{
+		"lampModelId": "ESC-4L",
+		"lampModelName": "ESC-4L",
+		"lampModelListId":"mainContentPlaceHolder_cb_LM_MODEL_ID_chzn_o_2"
+	}
+]

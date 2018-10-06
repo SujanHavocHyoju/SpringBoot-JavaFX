@@ -1,0 +1,32 @@
+[
+	{
+		"batteryTypeId": "0",
+		"batteryTypeName": "--Select--",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_0"
+	},
+	{
+		"batteryTypeId": "1",
+		"batteryTypeName": "Flooded",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_1"
+	},
+	{
+		"batteryTypeId": "2",
+		"batteryTypeName": "VRLA",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_2"
+	},
+	{
+		"batteryTypeId": "3",
+		"batteryTypeName": "GEL",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_3"
+	},
+	{
+		"batteryTypeId": "4",
+		"batteryTypeName": "Tubular Plate",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_4"
+	},
+	{
+		"batteryTypeId": "5",
+		"batteryTypeName": "Li-Ion",
+		"batteryTypeListId":"mainContentPlaceHolder_cb_BT_TYPE_chzn_o_5"
+	}
+]

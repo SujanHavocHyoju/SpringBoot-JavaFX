@@ -1,0 +1,17 @@
+[
+	{
+		"radiochargeId": "0",
+		"radiochargeName": "--Select--",
+		"radiochargeListId":"mainContentPlaceHolder_cb_HAS_RADIO_CHARGE_chzn_o_0"
+	},
+	{
+		"radiochargeId": "1",
+		"radiochargeName": "Yes",
+		"radiochargeListId":"mainContentPlaceHolder_cb_HAS_RADIO_CHARGE_chzn_o_1"
+	},
+	{
+		"radiochargeId": "2",
+		"radiochargeName": "No",
+		"radiochargeListId":"mainContentPlaceHolder_cb_HAS_RADIO_CHARGE_chzn_o_2"
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"targetGroupId": "0",
+		"targetGroupName": "--Select--",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_0"
+	},
+	{
+		"targetGroupId": "01",
+		"targetGroupName": "एकल महिला",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_1"
+	},
+	{
+		"targetGroupId": "02",
+		"targetGroupName": "विपत्ती पिडित",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_2"
+	},
+	{
+		"targetGroupId": "03",
+		"targetGroupName": "द्वन्द प्रभावित",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_3"
+	},
+	{
+		"targetGroupId": "04",
+		"targetGroupName": "लोपुन्मुख जाति",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_4"
+	},
+	{
+		"targetGroupId": "05",
+		"targetGroupName": "दलित",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_5"
+	},
+	{
+		"targetGroupId": "06",
+		"targetGroupName": "गरिब",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_6"
+	},
+	{
+		"targetGroupId": "07",
+		"targetGroupName": "एकल महिला आश्रीत वालबालिका",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_7"
+	},
+	{
+		"targetGroupId": "08",
+		"targetGroupName": "भुकम्प प्रभावित",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_8"
+	},
+	{
+		"targetGroupId": "09",
+		"targetGroupName": "पिछडिएका वर्ग",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_9"
+	},
+	{
+		"targetGroupId": "10",
+		"targetGroupName": "अन्य",
+		"targetGroupListId": "mainContentPlaceHolder_cb_GESI_ID_chzn_o_10"
+	}
+]

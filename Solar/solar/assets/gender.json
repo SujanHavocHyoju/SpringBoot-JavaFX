@@ -1,0 +1,22 @@
+[
+	{
+		"genderId": "0",
+		"genderName": "--Select--",
+		"genderListId": "mainContentPlaceHolder_cb_GENDER_chzn_o_0"
+	},
+	{
+		"genderId": "1",
+		"genderName": "Male",
+		"genderListId": "mainContentPlaceHolder_cb_GENDER_chzn_o_1"
+	},
+	{
+		"genderId": "2",
+		"genderName": "Female",
+		"genderListId": "mainContentPlaceHolder_cb_GENDER_chzn_o_2"
+	},
+	{
+		"genderId": "3",
+		"genderName": "Other",
+		"genderListId": "mainContentPlaceHolder_cb_GENDER_chzn_o_3"
+	}
+]

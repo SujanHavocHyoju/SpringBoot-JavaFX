@@ -1,0 +1,18 @@
+[
+	{
+		"genderId": 0,
+		"genderName": "--Select--"
+	},
+	{
+		"genderId": 1,
+		"genderName": "Male"
+	},
+	{
+		"genderId": 2,
+		"genderName": "Female"
+	},
+	{
+		"genderId": 3,
+		"genderName": "Other"
+	}
+]

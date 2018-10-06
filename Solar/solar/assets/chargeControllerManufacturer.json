@@ -1,0 +1,377 @@
+[
+	{
+		"chargeControllerManufacturerId": "0",
+		"chargeControllerManufacturerName": "--Select--",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_0"
+	},
+	{
+		"chargeControllerManufacturerId": "AER",
+		"chargeControllerManufacturerName": "Alternative Energy Resource Nepal Pvt. Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_1"
+	},
+	{
+		"chargeControllerManufacturerId": "AKW",
+		"chargeControllerManufacturerName": "AKW Electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_2"
+	},
+	{
+		"chargeControllerManufacturerId": "AKW1",
+		"chargeControllerManufacturerName": "AKW electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_3"
+	},
+	{
+		"chargeControllerManufacturerId": "ARSH",
+		"chargeControllerManufacturerName": "Arsh Electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_4"
+	},
+	{
+		"chargeControllerManufacturerId": "ASS",
+		"chargeControllerManufacturerName": "Associate Enterprises",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_5"
+	},
+	{
+		"chargeControllerManufacturerId": "ATERSAA",
+		"chargeControllerManufacturerName": "Atersa",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_6"
+	},
+	{
+		"chargeControllerManufacturerId": "ATT",
+		"chargeControllerManufacturerName": "Array Tech Technologies",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_7"
+	},
+	{
+		"chargeControllerManufacturerId": "BES",
+		"chargeControllerManufacturerName": "Best Energy Systems",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_8"
+	},
+	{
+		"chargeControllerManufacturerId": "BET",
+		"chargeControllerManufacturerName": "Beijing Episolar Technology Co. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_9"
+	},
+	{
+		"chargeControllerManufacturerId": "BIO",
+		"chargeControllerManufacturerName": "Bio Energy Pvt. Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_10"
+	},
+	{
+		"chargeControllerManufacturerId": "BP ENGINEERING",
+		"chargeControllerManufacturerName": "bp engineering  Consult pvt ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_11"
+	},
+	{
+		"chargeControllerManufacturerId": "BYPASSED",
+		"chargeControllerManufacturerName": "Bypassed",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_12"
+	},
+	{
+		"chargeControllerManufacturerId": "C-0070",
+		"chargeControllerManufacturerName": "Fns Power Technology Inc",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_13"
+	},
+	{
+		"chargeControllerManufacturerId": "C-0071",
+		"chargeControllerManufacturerName": "Lento Industries Pvt. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_14"
+	},
+	{
+		"chargeControllerManufacturerId": "C-0072",
+		"chargeControllerManufacturerName": "China Machinery Engineering Wuxi Co. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_15"
+	},
+	{
+		"chargeControllerManufacturerId": "CONERGY",
+		"chargeControllerManufacturerName": "Conergy Energy",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_16"
+	},
+	{
+		"chargeControllerManufacturerId": "CPS",
+		"chargeControllerManufacturerName": "Chloride Power Systems & Solutions Limited",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_17"
+	},
+	{
+		"chargeControllerManufacturerId": "CSLLC",
+		"chargeControllerManufacturerName": "Care Solar LLC",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_18"
+	},
+	{
+		"chargeControllerManufacturerId": "DSEC",
+		"chargeControllerManufacturerName": "Dhaulagiri Solar & Electronics Pvt. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_19"
+	},
+	{
+		"chargeControllerManufacturerId": "ENERGY",
+		"chargeControllerManufacturerName": "Energy and Construction Co. Pvt. Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_20"
+	},
+	{
+		"chargeControllerManufacturerId": "EVERESTSOL",
+		"chargeControllerManufacturerName": "Everest Solar Energy (P) Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_21"
+	},
+	{
+		"chargeControllerManufacturerId": "EVEREXCEED",
+		"chargeControllerManufacturerName": "Everexceed Solar corp pte ltd smart power",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_22"
+	},
+	{
+		"chargeControllerManufacturerId": "EXPO",
+		"chargeControllerManufacturerName": "Expo Electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_23"
+	},
+	{
+		"chargeControllerManufacturerId": "EXPO ELECTRONICS",
+		"chargeControllerManufacturerName": "expo electronics sunpower",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_24"
+	},
+	{
+		"chargeControllerManufacturerId": "GENEP",
+		"chargeControllerManufacturerName": "Genep Energy System P Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_25"
+	},
+	{
+		"chargeControllerManufacturerId": "GREEN",
+		"chargeControllerManufacturerName": "Green Zone Pte. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_26"
+	},
+	{
+		"chargeControllerManufacturerId": "GREN",
+		"chargeControllerManufacturerName": "Gren Zone Pte. Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_27"
+	},
+	{
+		"chargeControllerManufacturerId": "GZEE",
+		"chargeControllerManufacturerName": "GZ DPTR Energy & Electron Co. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_28"
+	},
+	{
+		"chargeControllerManufacturerId": "HBC&TDC",
+		"chargeControllerManufacturerName": "hubei bluelight science & technology development co. ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_29"
+	},
+	{
+		"chargeControllerManufacturerId": "ISO",
+		"chargeControllerManufacturerName": "Isofoton SA",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_30"
+	},
+	{
+		"chargeControllerManufacturerId": "KANTIPUR",
+		"chargeControllerManufacturerName": "Kantipur Urja",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_31"
+	},
+	{
+		"chargeControllerManufacturerId": "KGE",
+		"chargeControllerManufacturerName": "Krishna Grill and Engineering",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_32"
+	},
+	{
+		"chargeControllerManufacturerId": "LEK",
+		"chargeControllerManufacturerName": "Lek Beshi Surya Urja",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_33"
+	},
+	{
+		"chargeControllerManufacturerId": "LIANG",
+		"chargeControllerManufacturerName": "liang guang Shang company",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_34"
+	},
+	{
+		"chargeControllerManufacturerId": "LSN",
+		"chargeControllerManufacturerName": "Lasersun Energy",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_35"
+	},
+	{
+		"chargeControllerManufacturerId": "LTS",
+		"chargeControllerManufacturerName": "Lotus Energy",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_36"
+	},
+	{
+		"chargeControllerManufacturerId": "MACON",
+		"chargeControllerManufacturerName": "MACON",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_37"
+	},
+	{
+		"chargeControllerManufacturerId": "MARUTHI",
+		"chargeControllerManufacturerName": "Maruthi Solar systems",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_38"
+	},
+	{
+		"chargeControllerManufacturerId": "MC",
+		"chargeControllerManufacturerName": "Macon India",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_39"
+	},
+	{
+		"chargeControllerManufacturerId": "MNS",
+		"chargeControllerManufacturerName": "Mid Nite Solar Inc",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_40"
+	},
+	{
+		"chargeControllerManufacturerId": "MSC",
+		"chargeControllerManufacturerName": "Morning Star Corporation",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_41"
+	},
+	{
+		"chargeControllerManufacturerId": "MSS",
+		"chargeControllerManufacturerName": "Maruthi Solar Systems India",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_42"
+	},
+	{
+		"chargeControllerManufacturerId": "NJU",
+		"chargeControllerManufacturerName": "Nabajyouti Urja Pvt. Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_43"
+	},
+	{
+		"chargeControllerManufacturerId": "NOS",
+		"chargeControllerManufacturerName": "No Sticker( turn due to weather or by user)",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_44"
+	},
+	{
+		"chargeControllerManufacturerId": "NOST",
+		"chargeControllerManufacturerName": "No Sticker (initially)",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_45"
+	},
+	{
+		"chargeControllerManufacturerId": "PHOCUS",
+		"chargeControllerManufacturerName": "Phocus india",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_46"
+	},
+	{
+		"chargeControllerManufacturerId": "PST",
+		"chargeControllerManufacturerName": "Sundaya",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_47"
+	},
+	{
+		"chargeControllerManufacturerId": "RSTCLCC",
+		"chargeControllerManufacturerName": "Rising Solar Technology Co. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_48"
+	},
+	{
+		"chargeControllerManufacturerId": "RURAL",
+		"chargeControllerManufacturerName": "RURAL AND ALTERNATIVE ENERGY PVT LTD",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_49"
+	},
+	{
+		"chargeControllerManufacturerId": "SEC",
+		"chargeControllerManufacturerName": "Solar Electricity Company",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_50"
+	},
+	{
+		"chargeControllerManufacturerId": "SED",
+		"chargeControllerManufacturerName": "Sadhana Energy Device(GRE 0)",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_51"
+	},
+	{
+		"chargeControllerManufacturerId": "SHIJITEK",
+		"chargeControllerManufacturerName": "SHIJITEK Insrrument India",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_52"
+	},
+	{
+		"chargeControllerManufacturerId": "SHIJTEK",
+		"chargeControllerManufacturerName": "SHIJTEK CC",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_53"
+	},
+	{
+		"chargeControllerManufacturerId": "SHREE ELOCTRONICS",
+		"chargeControllerManufacturerName": "Shree Electronics & Solar Energy",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_54"
+	},
+	{
+		"chargeControllerManufacturerId": "SKPSL",
+		"chargeControllerManufacturerName": "Su-Kam Power System Ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_55"
+	},
+	{
+		"chargeControllerManufacturerId": "SOLAR ZONE",
+		"chargeControllerManufacturerName": "Solar Zone",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_56"
+	},
+	{
+		"chargeControllerManufacturerId": "SOLTRONIX",
+		"chargeControllerManufacturerName": "Soltronix Energy Pvt.ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_57"
+	},
+	{
+		"chargeControllerManufacturerId": "STI",
+		"chargeControllerManufacturerName": "Shijitek Instruments",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_58"
+	},
+	{
+		"chargeControllerManufacturerId": "SUE",
+		"chargeControllerManufacturerName": "Sunera Engineering",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_59"
+	},
+	{
+		"chargeControllerManufacturerId": "SUN",
+		"chargeControllerManufacturerName": "Sun Solar Electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_60"
+	},
+	{
+		"chargeControllerManufacturerId": "SUN BEAM",
+		"chargeControllerManufacturerName": "sun beam solar Energy pvt.ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_61"
+	},
+	{
+		"chargeControllerManufacturerId": "SUN SOLAR",
+		"chargeControllerManufacturerName": "Sun Solar Energy Nepal Pvt ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_62"
+	},
+	{
+		"chargeControllerManufacturerId": "SUNA",
+		"chargeControllerManufacturerName": "Sunrise Energy and Accesories Works",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_63"
+	},
+	{
+		"chargeControllerManufacturerId": "SUNERA",
+		"chargeControllerManufacturerName": "Sunera Singapore",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_64"
+	},
+	{
+		"chargeControllerManufacturerId": "SUNLIFE ENERGY",
+		"chargeControllerManufacturerName": "Sunlife energy Pvt. Ltd.",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_65"
+	},
+	{
+		"chargeControllerManufacturerId": "SUNSOLAR",
+		"chargeControllerManufacturerName": "Susolar Electronics",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_66"
+	},
+	{
+		"chargeControllerManufacturerId": "SUPREME",
+		"chargeControllerManufacturerName": "Supreme Solar Pvt.ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_67"
+	},
+	{
+		"chargeControllerManufacturerId": "SUT",
+		"chargeControllerManufacturerName": "Sun Technics Energy System",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_68"
+	},
+	{
+		"chargeControllerManufacturerId": "TRF",
+		"chargeControllerManufacturerName": "Taken for Repair",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_69"
+	},
+	{
+		"chargeControllerManufacturerId": "ULC",
+		"chargeControllerManufacturerName": "Uland Lighting Company",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_70"
+	},
+	{
+		"chargeControllerManufacturerId": "UNIFIED",
+		"chargeControllerManufacturerName": "Unified electronics india LTd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_71"
+	},
+	{
+		"chargeControllerManufacturerId": "UNIQUE",
+		"chargeControllerManufacturerName": "Unique Energy Pvt ltd",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_72"
+	},
+	{
+		"chargeControllerManufacturerId": "VIC",
+		"chargeControllerManufacturerName": "Victoriya",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_73"
+	},
+	{
+		"chargeControllerManufacturerId": "VIR",
+		"chargeControllerManufacturerName": "VIR ELECTRONICS",
+		"chargeControllerManufacturerListId": "mainContentPlaceHolder_cb_CC_MANU_ID_chzn_o_74"
+	}
+]

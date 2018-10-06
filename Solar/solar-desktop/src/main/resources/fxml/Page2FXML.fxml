@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.solar.Page2FXMLController">
+   <children>
+      
+      <TitledPane animated="false" layoutX="32.0" layoutY="68.0" prefHeight="173.0" prefWidth="960.0" text="Technical">
+         <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="59.0" prefWidth="958.0">
+               <children>
+                  <Label layoutX="398.0" layoutY="9.0" text="Engrave No #" />
+                  <Label layoutX="62.0" layoutY="17.0" text="Manufacturer" />
+                  <Label layoutX="62.0" layoutY="66.0" text="Model" />
+                  <Label layoutX="398.0" layoutY="67.0" text="Install Date" />
+                  <Label layoutX="717.0" layoutY="67.0" text="AD/BS" />
+                  <TextField fx:id="AD_BS" layoutX="717.0" layoutY="85.0" />
+                  <DatePicker fx:id="installationDate" layoutX="398.0" layoutY="85.0" onAction="#showDate" prefHeight="26.0" prefWidth="147.0" />
+                  <ComboBox fx:id="manufacturerBox" layoutX="56.0" layoutY="34.0" prefHeight="25.0" prefWidth="103.0" promptText="-- Select --" />
+                  <ComboBox fx:id="modelBox" layoutX="56.0" layoutY="85.0" prefHeight="25.0" prefWidth="103.0" promptText="-- Select --" />
+                  <Label fx:id="dLabel" layoutX="465.0" layoutY="66.0" prefHeight="17.0" prefWidth="81.0" />
+                  <TextField fx:id="engraveNo" layoutX="396.0" layoutY="34.0" />
+               </children>
+            </AnchorPane>
+         </content>
+      </TitledPane>
+      <TitledPane animated="false" layoutX="32.0" layoutY="263.0" prefHeight="185.0" prefWidth="960.0" text="Investment">
+         <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="153.0" prefWidth="958.0">
+               <children>
+                  <Label layoutX="400.0" layoutY="18.0" text="Subsidy Support (NRs.)" />
+                  <Label layoutX="403.0" layoutY="70.0" text="User Amount (NRs.)" />
+                  <TextField fx:id="subsidySupport" layoutX="400.0" layoutY="35.0" />
+                  <TextField fx:id="userAmount" layoutX="403.0" layoutY="88.0" />
+                  <Label layoutX="61.0" layoutY="17.0" text="Total Stove Cost (NRS.)" />
+                  <TextField fx:id="totalCost" layoutX="63.0" layoutY="35.0" />
+                  <Label layoutX="64.0" layoutY="75.0" text="Subsidy Amount (NRs.)" />
+                  <TextField fx:id="subsidyAmount" layoutX="66.0" layoutY="96.0" />
+               </children>
+            </AnchorPane>
+         </content>
+      </TitledPane>
+      <Button layoutX="853.0" layoutY="655.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="119.0" text="Save" />
+      <Button layoutX="218.0" layoutY="655.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="119.0" text="Next" />
+      <Button fx:id="btnPrevious" layoutX="43.0" layoutY="656.0" mnemonicParsing="false" onAction="#previousPageAction" prefHeight="32.0" prefWidth="119.0" text="Previous" />
+      <Button fx:id="btnLogout" layoutX="950.0" layoutY="29.0" mnemonicParsing="false" onAction="#LogOut" text="Logout" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,22 @@
+[
+	{
+		"institutionTypeId": "0",
+		"institutionTypeName": "--Select--",
+		"institutionTypeListId":"mainContentPlaceHolder_cb_INSTITUTION_TYPE_chzn_o_0"
+	},
+	{
+		"institutionTypeId": "1",
+		"institutionTypeName": "Bank",
+		"institutionTypeListId":"mainContentPlaceHolder_cb_INSTITUTION_TYPE_chzn_o_1"
+	},
+	{
+		"institutionTypeId": "2",
+		"institutionTypeName": "Co-operative",
+		"institutionTypeListId":"mainContentPlaceHolder_cb_INSTITUTION_TYPE_chzn_o_2"
+	},
+	{
+		"institutionTypeId": "3",
+		"institutionTypeName": "Other",
+		"institutionTypeListId":"mainContentPlaceHolder_cb_INSTITUTION_TYPE_chzn_o_3"
+	}
+]

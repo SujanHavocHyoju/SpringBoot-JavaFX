@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextField?>
+<?import com.jfoenix.controls.JFXTreeTableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="745.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.solar.ReviewController">
+   <children>
+      <Pane prefHeight="120.0">
+         <children>
+            <JFXTextField fx:id="searchByStoveId" layoutX="6.0" layoutY="19.0" prefHeight="26.0" prefWidth="214.0" promptText="Search By Solar ID" />
+         </children>
+      </Pane>
+      <JFXTreeTableView fx:id="treeView" prefHeight="600.0" prefWidth="750.0" />
+   </children>
+</VBox>

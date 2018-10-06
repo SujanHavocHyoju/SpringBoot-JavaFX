@@ -1,0 +1,37 @@
+[
+  {
+    "ethnicityId": "0",
+    "ethnicityName": "--Select--",
+    "ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_0"
+  },
+  {
+    "ethnicityId": "01",
+    "ethnicityName": "ब्रहण / छेत्री / ठकुरी",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_1"
+  },
+  {
+    "ethnicityId": "02",
+    "ethnicityName": "जनजाति",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_2"
+  },
+  {
+    "ethnicityId": "03",
+    "ethnicityName": "दलित",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_3"
+  },
+  {
+    "ethnicityId": "04",
+    "ethnicityName": "मुस्लिम",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_4"
+  },
+  {
+    "ethnicityId": "05",
+    "ethnicityName": "मधेशी",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_5"
+  },
+  {
+    "ethnicityId": "06",
+    "ethnicityName": "अन्य",
+	"ethnicityListId":"mainContentPlaceHolder_cb_ETHINICITY_ID_chzn_o_6"
+  }
+]

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.image.Image?>
+<VBox fx:id="homeVbox" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="745.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.rocketstove.HomeController">
+   <children>
+      <Pane prefHeight="50.0" style="-fx-background-color: transparent;">
+          <children>
+            <JFXButton fx:id="connectToServer" buttonType="RAISED" layoutX="10.0" layoutY="12.0" onAction="#connectToServer" prefHeight="26.0" prefWidth="170.0" ripplerFill="#bf2d2d" style="-fx-background-color: black;" text="Connect To Server" textFill="#fcfafa" />
+            <JFXButton fx:id="downloadBtn" buttonType="RAISED" layoutX="496.0" layoutY="12.0" onAction="#downloadFilesFromCloud" prefHeight="26.0" prefWidth="170.0" ripplerFill="#bf2d2d" style="-fx-background-color: black;" text="Download Form(s)" textFill="#fcfafa" />
+         </children>
+         <VBox.margin>
+            <Insets left="30.0" />
+         </VBox.margin>
+      </Pane>
+      <HBox prefHeight="180.0" prefWidth="735.0">
+         <children>
+            <Pane fx:id="totalReviewPane" prefHeight="180.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="40.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/cloud_download.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="24.0" layoutY="129.0" text="Total Downloaded" />
+                  <Label fx:id="totalDownloadedLabel" layoutX="76.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="30.0" />
+               </HBox.margin>
+            </Pane>
+            <Pane fx:id="totalAutomatedBtnClicked" prefHeight="180.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="39.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/reviewed.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="34.0" layoutY="129.0" text="Total Unreviewed" />
+                  <Label fx:id="totalReviewLabel" layoutX="76.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="30.0" />
+               </HBox.margin>
+            </Pane>
+            <Pane fx:id="totalReadyToAutomatePane" prefHeight="180.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="40.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/automate.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="16.0" layoutY="129.0" prefHeight="17.0" prefWidth="149.0" text="Ready to Automate" />
+                  <Label fx:id="totalReadyToAutomateLabel" layoutX="71.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="10.0" />
+               </HBox.margin>
+            </Pane>
+         </children>
+         <VBox.margin>
+            <Insets bottom="20.0" left="10.0" right="20.0" top="40.0" />
+         </VBox.margin>
+      </HBox>
+      <HBox prefHeight="180.0" prefWidth="735.0">
+         <children>
+              <Pane fx:id="totalSubmittedPane" prefHeight="180.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="40.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/submitted.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="26.0" layoutY="129.0" prefHeight="17.0" prefWidth="138.0" text="Total Submitted" />
+                  <Label fx:id="totalSubmittedLabel" layoutX="76.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="30.0" />
+               </HBox.margin>
+            </Pane>
+            <Pane fx:id="totalSuccededPane" prefHeight="150.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="40.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/success.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="28.0" layoutY="129.0" text="Total Succeeded" />
+                  <Label fx:id="totalSuccededLabel" layoutX="76.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="30.0" />
+               </HBox.margin>
+            </Pane>
+            <Pane fx:id="totalRejectedPane" prefHeight="180.0" prefWidth="180.0" style="-fx-font-weight: bold; -fx-background-color: white; -fx-background-radius: 20px; -fx-cursor: hand;">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="40.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="assets/img/failed.png" />
+                           </image>
+                        </ImageView>
+                  <Label layoutX="48.0" layoutY="129.0" text="Total Failed" />
+                  <Label fx:id="totalReturnedLabel" layoutX="76.0" layoutY="137.0" text="100">
+                     <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="30.0" right="10.0" />
+               </HBox.margin>
+            </Pane>
+           
+         </children>
+         <VBox.margin>
+            <Insets bottom="20.0" left="10.0" right="20.0" top="20.0" />
+         </VBox.margin>
+      </HBox>
+   </children>
+</VBox>

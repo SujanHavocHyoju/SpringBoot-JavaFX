@@ -1,0 +1,22 @@
+[
+  {
+    "bdaTypeId": "0",
+    "bdaTypeName": "--Select--",
+    "bdaTypeListId":"mainContentPlaceHolder_cb_BDA_TYPE_chzn_o_0"
+  },
+  {
+    "bdaTypeId": "1",
+    "bdaTypeName": "Branch",
+	"bdaTypeListId":"mainContentPlaceHolder_cb_BDA_TYPE_chzn_o_1"
+  },
+  {
+    "bdaTypeId": "2",
+    "bdaTypeName": "Dealer",
+	"bdaTypeListId":"mainContentPlaceHolder_cb_BDA_TYPE_chzn_o_2"
+  },
+  {
+    "bdaTypeId": "3",
+    "bdaTypeName": "Agent",
+	"bdaTypeListId":"mainContentPlaceHolder_cb_BDA_TYPE_chzn_o_3"
+  }
+]

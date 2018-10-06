@@ -1,0 +1,65 @@
+[
+	{
+		"manufacturerId": "0",
+		"manufacturerName": "--Select--",
+		"manufacturerListId": "mainContentPlaceHolder_cb_MANUFACTURER_ID_chzn_o_0",
+		"stoveModel": [
+			{
+				"stovemodelId": "000",
+				"stovemodelName": "000",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_0"
+			}
+		]
+	},
+	{
+		"manufacturerId": "R-0001",
+		"manufacturerName": "Jhankar Multiple Concern Pvt. Ltd.",
+		"manufacturerListId": "mainContentPlaceHolder_cb_MANUFACTURER_ID_chzn_o_11",
+		"stoveModel": [
+			{
+				"stovemodelId": "0",
+				"stovemodelName": "--Select--",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_0"
+			},
+			{
+				"stovemodelId": "CNJ-R2 NP",
+				"stovemodelName": "CNJ-R2 NP",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_1"
+			}
+		]
+	},
+	{
+		"manufacturerId": "R-0004",
+		"manufacturerName": "Husk Power Nepal Pvt Ltd",
+		"manufacturerListId": "mainContentPlaceHolder_cb_MANUFACTURER_ID_chzn_o_4",
+		"stoveModel": [
+			{
+				"stovemodelId": "0",
+				"stovemodelName": "--Select--",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_0"
+			},
+			{
+				"stovemodelId": "HPNJE-01ND",
+				"stovemodelName": "HPNJE-01ND",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_1"
+			}
+		]
+	},
+	{
+		"manufacturerId": "SGU",
+		"manufacturerName": "Sai Urja Grameen Udhyog, Haryana, India",
+		"manufacturerListId": "mainContentPlaceHolder_cb_MANUFACTURER_ID_chzn_o_13",
+		"stoveModel": [
+			{
+				"stovemodelId": "0",
+				"stovemodelName": "--Select--",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_0"
+			},
+			{
+				"stovemodelId": "GVK 0.65-1",
+				"stovemodelName": "GVK 0.65-1",
+				"stovemodelListId": "mainContentPlaceHolder_cb_MODEL_ID_chzn_o_1"
+			}
+		]
+	}
+]

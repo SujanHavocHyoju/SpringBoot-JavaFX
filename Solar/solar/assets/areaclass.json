@@ -1,0 +1,18 @@
+[
+	{
+		"areaclassId": "0",
+		"areaclassName": "--Select--"
+	},
+	{
+		"areaclassId": "01",
+		"areaclassName": "Very Remote (A)"
+	},
+	{
+		"areaclassId": "02",
+		"areaclassName": "Remote (B)"
+	},
+	{
+		"areaclassId": "03",
+		"areaclassName": "Not Remote (C)"
+	}
+]

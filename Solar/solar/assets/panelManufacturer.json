@@ -1,0 +1,812 @@
+[
+	{
+		"panelManufacturerId": "0",
+		"panelManufacturerName": "--Select--",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_0"
+	},
+	{
+		"panelManufacturerId": "AET",
+		"panelManufacturerName": "Andromedia Energy Technologies Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_1"
+	},
+	{
+		"panelManufacturerId": "ALPEX",
+		"panelManufacturerName": "Alpex Exports Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_2"
+	},
+	{
+		"panelManufacturerId": "ANDROMEDA",
+		"panelManufacturerName": "Andromeda Energy Technology Pvt. LTd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_3"
+	},
+	{
+		"panelManufacturerId": "ANHUI",
+		"panelManufacturerName": "Anhui Ren. Zho. SC Dev Co. Ltd(QJP)",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_4"
+	},
+	{
+		"panelManufacturerId": "ASC",
+		"panelManufacturerName": "Auxin Solar Corp",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_5"
+	},
+	{
+		"panelManufacturerId": "ASL",
+		"panelManufacturerName": "Access Solar limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_6"
+	},
+	{
+		"panelManufacturerId": "ASTROPOW",
+		"panelManufacturerName": "Astro Power - Photowatt",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_7"
+	},
+	{
+		"panelManufacturerId": "ATONE",
+		"panelManufacturerName": "Atone New Energy Limitd   topsun enrgy pvt ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_8"
+	},
+	{
+		"panelManufacturerId": "ATONE NEW",
+		"panelManufacturerName": "Atone New Energy Limitd  for SSHS  topsun enrgy pvt ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_9"
+	},
+	{
+		"panelManufacturerId": "AUZIN",
+		"panelManufacturerName": "Auxin Solar LLC",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_10"
+	},
+	{
+		"panelManufacturerId": "BPSOLAR",
+		"panelManufacturerName": "BP Solar",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_11"
+	},
+	{
+		"panelManufacturerId": "CANADIAN",
+		"panelManufacturerName": "Canadian Solar inc",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_12"
+	},
+	{
+		"panelManufacturerId": "CEL",
+		"panelManufacturerName": "Central Electronics Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_13"
+	},
+	{
+		"panelManufacturerId": "CHANGHU",
+		"panelManufacturerName": "Changhou Nesl Solartech Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_14"
+	},
+	{
+		"panelManufacturerId": "CHINA",
+		"panelManufacturerName": "China Machinery Engineering wuxi Co .ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_15"
+	},
+	{
+		"panelManufacturerId": "CNPV",
+		"panelManufacturerName": "CNPV Dongying Photovoltaic Power Co.  Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_16"
+	},
+	{
+		"panelManufacturerId": "CNS",
+		"panelManufacturerName": "Changzhou NESL Solartech Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_17"
+	},
+	{
+		"panelManufacturerId": "CONERGY",
+		"panelManufacturerName": "Conergy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_18"
+	},
+	{
+		"panelManufacturerId": "CSC",
+		"panelManufacturerName": "china sunergy (nanjing) co. ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_19"
+	},
+	{
+		"panelManufacturerId": "CSE",
+		"panelManufacturerName": "Chinaland Solar Energy Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_20"
+	},
+	{
+		"panelManufacturerId": "CSECL",
+		"panelManufacturerName": "Changzhou Sunday Energy Co., Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_21"
+	},
+	{
+		"panelManufacturerId": "DGNT",
+		"panelManufacturerName": "DG New technology I & E Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_22"
+	},
+	{
+		"panelManufacturerId": "DON",
+		"panelManufacturerName": "Dongying Photovoltaic Power Company Limited. China",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_23"
+	},
+	{
+		"panelManufacturerId": "EEC",
+		"panelManufacturerName": "EVEREXCEED CORPORATION",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_24"
+	},
+	{
+		"panelManufacturerId": "EMMVEE",
+		"panelManufacturerName": "Emmvee Photovoltaic Power Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_25"
+	},
+	{
+		"panelManufacturerId": "EPP",
+		"panelManufacturerName": "Emmvee PV Power Pvt Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_26"
+	},
+	{
+		"panelManufacturerId": "ESG",
+		"panelManufacturerName": "Energiebau Solarsystemie GmbH",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_27"
+	},
+	{
+		"panelManufacturerId": "EVER",
+		"panelManufacturerName": "No TWENTY_EIGHT missing",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_28"
+	},
+	{
+		"panelManufacturerId": "EVEREXCEED",
+		"panelManufacturerName": "Everexceed Solar crop .Pte. ltd smart Power pvt .ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_29"
+	},
+	{
+		"panelManufacturerId": "GEE",
+		"panelManufacturerName": "G. E. Energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_30"
+	},
+	{
+		"panelManufacturerId": "HHV",
+		"panelManufacturerName": "HHV Solar Technilogies Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_31"
+	},
+	{
+		"panelManufacturerId": "HILIGHT",
+		"panelManufacturerName": "Hilight Solar Pvt. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_32"
+	},
+	{
+		"panelManufacturerId": "HOORAY",
+		"panelManufacturerName": "Hooray Energy Pte. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_33"
+	},
+	{
+		"panelManufacturerId": "ISO",
+		"panelManufacturerName": "isofton s.a.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_34"
+	},
+	{
+		"panelManufacturerId": "ISOFOTON",
+		"panelManufacturerName": "ISOFOTON",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_35"
+	},
+	{
+		"panelManufacturerId": "JHEJIANG",
+		"panelManufacturerName": "jhejing Sun energy co.ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_36"
+	},
+	{
+		"panelManufacturerId": "JIANGSU JIASHENG",
+		"panelManufacturerName": "JIANGSU JIASHENG Photovoltaic Tecnology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_37"
+	},
+	{
+		"panelManufacturerId": "JINHUA",
+		"panelManufacturerName": "Jinhua Dokio Technology Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_38"
+	},
+	{
+		"panelManufacturerId": "JINHUA DOKIO",
+		"panelManufacturerName": "Jinhua dokio . suntech energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_39"
+	},
+	{
+		"panelManufacturerId": "JINHUADOKIO",
+		"panelManufacturerName": "Jinhua Dokio Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_40"
+	},
+	{
+		"panelManufacturerId": "JJPV",
+		"panelManufacturerName": "JJPV Solar Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_41"
+	},
+	{
+		"panelManufacturerId": "JUST",
+		"panelManufacturerName": "JUst Solar Co limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_42"
+	},
+	{
+		"panelManufacturerId": "JUSTSOLAR",
+		"panelManufacturerName": "Just Solar",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_43"
+	},
+	{
+		"panelManufacturerId": "KD",
+		"panelManufacturerName": "KD new Energy pvt. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_44"
+	},
+	{
+		"panelManufacturerId": "KENKA",
+		"panelManufacturerName": "Kaneka Corporation",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_45"
+	},
+	{
+		"panelManufacturerId": "KIT",
+		"panelManufacturerName": "Kirloskar Integrated Technologies",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_46"
+	},
+	{
+		"panelManufacturerId": "KL SOLAR",
+		"panelManufacturerName": "KL Solar Company Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_47"
+	},
+	{
+		"panelManufacturerId": "KLS",
+		"panelManufacturerName": "KL Solar Company Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_48"
+	},
+	{
+		"panelManufacturerId": "KOTAK",
+		"panelManufacturerName": "Kotak Urja pvt.ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_49"
+	},
+	{
+		"panelManufacturerId": "KYO",
+		"panelManufacturerName": "Kyocera Asia Pte. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_50"
+	},
+	{
+		"panelManufacturerId": "KYOCERA",
+		"panelManufacturerName": "Kyocera Corporation",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_51"
+	},
+	{
+		"panelManufacturerId": "LDK",
+		"panelManufacturerName": "Ldk Solar Co ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_52"
+	},
+	{
+		"panelManufacturerId": "LSS",
+		"panelManufacturerName": "LS Solar Pte Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_53"
+	},
+	{
+		"panelManufacturerId": "LSSOLAR",
+		"panelManufacturerName": "LS Solar Pte Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_54"
+	},
+	{
+		"panelManufacturerId": "MBP",
+		"panelManufacturerName": "Moser Baer Photovoltaic Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_55"
+	},
+	{
+		"panelManufacturerId": "MITSUBISHI",
+		"panelManufacturerName": "MITSUBISHI Electric Corparation",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_56"
+	},
+	{
+		"panelManufacturerId": "MLS",
+		"panelManufacturerName": "ML Solar LLC",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_57"
+	},
+	{
+		"panelManufacturerId": "MOSERBEAR",
+		"panelManufacturerName": "Moserbare Photovoltaic",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_58"
+	},
+	{
+		"panelManufacturerId": "NESL",
+		"panelManufacturerName": "Nesl Solartech Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_59"
+	},
+	{
+		"panelManufacturerId": "NFIE",
+		"panelManufacturerName": "Ningbo Fufan Import & Export Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_60"
+	},
+	{
+		"panelManufacturerId": "NHIT",
+		"panelManufacturerName": "Ningbo Homey International Trade Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_61"
+	},
+	{
+		"panelManufacturerId": "NI",
+		"panelManufacturerName": "Neety International India",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_62"
+	},
+	{
+		"panelManufacturerId": "NINGBO",
+		"panelManufacturerName": "Ningbo Komes",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_63"
+	},
+	{
+		"panelManufacturerId": "NINGBO RENELED",
+		"panelManufacturerName": "Ningbo Reneld Electrical Appliance Co. Ltd. ",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_64"
+	},
+	{
+		"panelManufacturerId": "NINGBOBEST",
+		"panelManufacturerName": "Ningbo Best solar",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_65"
+	},
+	{
+		"panelManufacturerId": "NINGBOQIXIN",
+		"panelManufacturerName": "Ningbo Qixin Solar",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_66"
+	},
+	{
+		"panelManufacturerId": "NINGO",
+		"panelManufacturerName": "Ningbo South New Energy Technology Co. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_67"
+	},
+	{
+		"panelManufacturerId": "NKST",
+		"panelManufacturerName": "Ningbo Komaes technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_68"
+	},
+	{
+		"panelManufacturerId": "NOS",
+		"panelManufacturerName": "No Sticker ( Torn due to weather or by user)",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_69"
+	},
+	{
+		"panelManufacturerId": "NQSEACL",
+		"panelManufacturerName": "Ningbo Qixin Solar Electrical Appliance Co.,Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_70"
+	},
+	{
+		"panelManufacturerId": "NZP",
+		"panelManufacturerName": "Ningo Zhonghong Photovoltaic Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_71"
+	},
+	{
+		"panelManufacturerId": "OSDA",
+		"panelManufacturerName": "Ningbo Osda Solar Co.Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_72"
+	},
+	{
+		"panelManufacturerId": "P-1143",
+		"panelManufacturerName": "Shenzen Topray Solar Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_73"
+	},
+	{
+		"panelManufacturerId": "P-1144",
+		"panelManufacturerName": "Suzhou Resun Solar Energy Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_74"
+	},
+	{
+		"panelManufacturerId": "P-1145",
+		"panelManufacturerName": "Ningbo Dauchuan Solar Energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_75"
+	},
+	{
+		"panelManufacturerId": "P-1146",
+		"panelManufacturerName": "Neosol Technologies Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_76"
+	},
+	{
+		"panelManufacturerId": "P-1147",
+		"panelManufacturerName": "Everexceed Industrial Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_77"
+	},
+	{
+		"panelManufacturerId": "P-1148",
+		"panelManufacturerName": "Zhejiang Era Solar Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_78"
+	},
+	{
+		"panelManufacturerId": "P-1149",
+		"panelManufacturerName": "Ritika Systems Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_79"
+	},
+	{
+		"panelManufacturerId": "P-1150",
+		"panelManufacturerName": "Dongguan Sunworth Solar En. Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_80"
+	},
+	{
+		"panelManufacturerId": "P-1151",
+		"panelManufacturerName": "Jiangsu Wanfeng PV Company Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_81"
+	},
+	{
+		"panelManufacturerId": "P-1152",
+		"panelManufacturerName": "Tapan Solar Energy Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_82"
+	},
+	{
+		"panelManufacturerId": "P-1153",
+		"panelManufacturerName": "Nigbo Reneled New Energy Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_83"
+	},
+	{
+		"panelManufacturerId": "PCT",
+		"panelManufacturerName": "Precision Clean-Tech",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_84"
+	},
+	{
+		"panelManufacturerId": "PEL",
+		"panelManufacturerName": "Philips Electronics India Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_85"
+	},
+	{
+		"panelManufacturerId": "PHOTON",
+		"panelManufacturerName": "Photon Energy System Ltd (Conergy)",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_86"
+	},
+	{
+		"panelManufacturerId": "PHOTONIX",
+		"panelManufacturerName": "Photonix Solar Pvt. LTd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_87"
+	},
+	{
+		"panelManufacturerId": "PNX",
+		"panelManufacturerName": "Photonix Solar Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_88"
+	},
+	{
+		"panelManufacturerId": "PREMIER",
+		"panelManufacturerName": "Premier Solar System Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_89"
+	},
+	{
+		"panelManufacturerId": "PSCL",
+		"panelManufacturerName": "Perlight Solar Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_90"
+	},
+	{
+		"panelManufacturerId": "PSS",
+		"panelManufacturerName": "Premier Solar System Pvt.LTd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_91"
+	},
+	{
+		"panelManufacturerId": "PSSL",
+		"panelManufacturerName": "Premier Solar Systems (P) Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_92"
+	},
+	{
+		"panelManufacturerId": "QNIHU",
+		"panelManufacturerName": "Qinhuangdan Rayking Solar Company pvt",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_93"
+	},
+	{
+		"panelManufacturerId": "RAHIMAFROOZ",
+		"panelManufacturerName": "Rahimafrooz Renewable Energy Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_94"
+	},
+	{
+		"panelManufacturerId": "RAYKING",
+		"panelManufacturerName": "Rayking Industry Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_95"
+	},
+	{
+		"panelManufacturerId": "REIL",
+		"panelManufacturerName": "Rajasthan Electronics & Instruments Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_96"
+	},
+	{
+		"panelManufacturerId": "RELIANCE",
+		"panelManufacturerName": "Reliance Industries Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_97"
+	},
+	{
+		"panelManufacturerId": "RKI",
+		"panelManufacturerName": "Rayking Industry Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_98"
+	},
+	{
+		"panelManufacturerId": "SANYO",
+		"panelManufacturerName": "Sanyo",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_99"
+	},
+	{
+		"panelManufacturerId": "SDP",
+		"panelManufacturerName": "Sunera Distribution Pte. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_100"
+	},
+	{
+		"panelManufacturerId": "SEC",
+		"panelManufacturerName": "Solar Electricity Company Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_101"
+	},
+	{
+		"panelManufacturerId": "SENSO",
+		"panelManufacturerName": "Senso Technologie co. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_102"
+	},
+	{
+		"panelManufacturerId": "SEPL",
+		"panelManufacturerName": "Solex Energy (P) Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_103"
+	},
+	{
+		"panelManufacturerId": "SETS",
+		"panelManufacturerName": "Sun Technics Energy System Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_104"
+	},
+	{
+		"panelManufacturerId": "SHANGANG",
+		"panelManufacturerName": "Shangang High Light Solar Pvt.Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_105"
+	},
+	{
+		"panelManufacturerId": "SHARP",
+		"panelManufacturerName": "Sharp Cooperation",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_106"
+	},
+	{
+		"panelManufacturerId": "SHINEW",
+		"panelManufacturerName": "Shinew Ptotoelectronic",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_107"
+	},
+	{
+		"panelManufacturerId": "SHS",
+		"panelManufacturerName": "Shell Solar PVT  LTD.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_108"
+	},
+	{
+		"panelManufacturerId": "SINODEO",
+		"panelManufacturerName": "Sinodev New Energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_109"
+	},
+	{
+		"panelManufacturerId": "SIP",
+		"panelManufacturerName": "Sunny International Power Corp.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_110"
+	},
+	{
+		"panelManufacturerId": "SKPSL",
+		"panelManufacturerName": "Su-Kam Power System Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_111"
+	},
+	{
+		"panelManufacturerId": "SLG",
+		"panelManufacturerName": "Solar Leading Group",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_112"
+	},
+	{
+		"panelManufacturerId": "SNE",
+		"panelManufacturerName": "Sinodeu New Energy Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_113"
+	},
+	{
+		"panelManufacturerId": "SOLAR WR",
+		"panelManufacturerName": "SOLAR WR",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_114"
+	},
+	{
+		"panelManufacturerId": "SOLARLAND",
+		"panelManufacturerName": "Solar Land china",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_115"
+	},
+	{
+		"panelManufacturerId": "SOLARWO",
+		"panelManufacturerName": "Solar World (AG)",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_116"
+	},
+	{
+		"panelManufacturerId": "SPI",
+		"panelManufacturerName": "solar power inc",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_117"
+	},
+	{
+		"panelManufacturerId": "SPL",
+		"panelManufacturerName": "Sova Power Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_118"
+	},
+	{
+		"panelManufacturerId": "SSC",
+		"panelManufacturerName": "Shanghai ST Solar Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_119"
+	},
+	{
+		"panelManufacturerId": "SSNEC",
+		"panelManufacturerName": "shenzhen suoyang new energy co. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_120"
+	},
+	{
+		"panelManufacturerId": "ST&PL",
+		"panelManufacturerName": "surana telecom and power ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_121"
+	},
+	{
+		"panelManufacturerId": "STE",
+		"panelManufacturerName": "SunTechnics Energy Systems Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_122"
+	},
+	{
+		"panelManufacturerId": "STICKER TORN",
+		"panelManufacturerName": "Sticker torn",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_123"
+	},
+	{
+		"panelManufacturerId": "SUN",
+		"panelManufacturerName": "Sun Technics",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_124"
+	},
+	{
+		"panelManufacturerId": "SUNLINK",
+		"panelManufacturerName": "Sun Link",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_125"
+	},
+	{
+		"panelManufacturerId": "SUNNY",
+		"panelManufacturerName": "Sunny Intertional Power Corporation",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_126"
+	},
+	{
+		"panelManufacturerId": "SUNRISE",
+		"panelManufacturerName": "Sunrise Energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_127"
+	},
+	{
+		"panelManufacturerId": "SUNT",
+		"panelManufacturerName": "Suntech",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_128"
+	},
+	{
+		"panelManufacturerId": "SUNTEC",
+		"panelManufacturerName": "Suntech Power Company Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_129"
+	},
+	{
+		"panelManufacturerId": "SUNTECNICS",
+		"panelManufacturerName": "Sun Technic",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_130"
+	},
+	{
+		"panelManufacturerId": "SURANA",
+		"panelManufacturerName": "Surana Telecom and Power Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_131"
+	},
+	{
+		"panelManufacturerId": "SVL",
+		"panelManufacturerName": "Surana Ventures Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_132"
+	},
+	{
+		"panelManufacturerId": "TATABP",
+		"panelManufacturerName": "TATA  BP SOLAR",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_133"
+	},
+	{
+		"panelManufacturerId": "TBP",
+		"panelManufacturerName": "Tata BP Solar",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_134"
+	},
+	{
+		"panelManufacturerId": "TDI",
+		"panelManufacturerName": "Today Deals Inc",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_135"
+	},
+	{
+		"panelManufacturerId": "TEL",
+		"panelManufacturerName": "Topsun Energy Limited",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_136"
+	},
+	{
+		"panelManufacturerId": "TGS",
+		"panelManufacturerName": "Tamrag Green Solutions (India) P. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_137"
+	},
+	{
+		"panelManufacturerId": "USL",
+		"panelManufacturerName": "Udhaya Semiconductors Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_138"
+	},
+	{
+		"panelManufacturerId": "VIKRAM",
+		"panelManufacturerName": "Vikram Solar pvt ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_139"
+	},
+	{
+		"panelManufacturerId": "VIKRAM SSHS",
+		"panelManufacturerName": "Vikram Solar pvt .ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_140"
+	},
+	{
+		"panelManufacturerId": "VSP",
+		"panelManufacturerName": "Vikram Solar Pvt. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_141"
+	},
+	{
+		"panelManufacturerId": "WAAREE",
+		"panelManufacturerName": "Waaree energiessunray",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_142"
+	},
+	{
+		"panelManufacturerId": "WCANIECL",
+		"panelManufacturerName": "Wuxi C.A.N. Import & Export Co.Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_143"
+	},
+	{
+		"panelManufacturerId": "WREP",
+		"panelManufacturerName": "Waree Energies Pvt. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_144"
+	},
+	{
+		"panelManufacturerId": "WUXI",
+		"panelManufacturerName": "Wuxi Machinary And Equipment Import and Export Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_145"
+	},
+	{
+		"panelManufacturerId": "XUSTC",
+		"panelManufacturerName": "xiamen universe solar technology co. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_146"
+	},
+	{
+		"panelManufacturerId": "YANGZHOU",
+		"panelManufacturerName": "Yanhzhou K.D new Energy Technology co.ltd topsun energy",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_147"
+	},
+	{
+		"panelManufacturerId": "YKD",
+		"panelManufacturerName": "Yangzhou K.D New Energy Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_148"
+	},
+	{
+		"panelManufacturerId": "YTP",
+		"panelManufacturerName": "Yunnan Tianda photovoltaic Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_149"
+	},
+	{
+		"panelManufacturerId": "ZFST",
+		"panelManufacturerName": "YZhangjiagang Fortunes Solar Tech co., Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_150"
+	},
+	{
+		"panelManufacturerId": "ZGFT",
+		"panelManufacturerName": "Zhejiang G&F Trading Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_151"
+	},
+	{
+		"panelManufacturerId": "ZHEJIANG",
+		"panelManufacturerName": "zhejiang Shangcheng Solar tech.com. ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_152"
+	},
+	{
+		"panelManufacturerId": "ZHEJIANGGP",
+		"panelManufacturerName": "Zhejiang G&P New Energy Tech Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_153"
+	},
+	{
+		"panelManufacturerId": "ZHEJIANGKOLY",
+		"panelManufacturerName": "Zhejiang  Koly Energy Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_154"
+	},
+	{
+		"panelManufacturerId": "ZHEJIANGM",
+		"panelManufacturerName": "Zhejiang Macro Solar Technology",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_155"
+	},
+	{
+		"panelManufacturerId": "ZHEJIANGSS",
+		"panelManufacturerName": "Zhejiang sunenergy co. ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_156"
+	},
+	{
+		"panelManufacturerId": "ZHEJINGM",
+		"panelManufacturerName": "Zhejiang Macro-solar Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_157"
+	},
+	{
+		"panelManufacturerId": "ZMST",
+		"panelManufacturerName": "Zhejiang Macro-Solar technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_158"
+	},
+	{
+		"panelManufacturerId": "ZSE",
+		"panelManufacturerName": "Zhejiang Sun Energy Co. Ltd",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_159"
+	},
+	{
+		"panelManufacturerId": "ZSPT",
+		"panelManufacturerName": "Zhejiang Shinew Photoelectronic Technology Co. ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_160"
+	},
+	{
+		"panelManufacturerId": "ZSST",
+		"panelManufacturerName": "Zhejiang Shangcheng Solar Technology Co. Ltd.",
+		"panelManufacturerListId": "mainContentPlaceHolder_cb_SP_MANU_ID_chzn_o_161"
+	}
+]

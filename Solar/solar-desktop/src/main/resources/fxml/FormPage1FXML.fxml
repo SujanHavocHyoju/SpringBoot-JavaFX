@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.solar.FormPage1FXMLController">
+   <content>
+      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="672.0" prefWidth="996.0">
+         <children>
+            <Button fx:id="btnLogout" layoutX="829.0" layoutY="8.0" mnemonicParsing="false" onAction="#closeEvent" prefHeight="26.0" prefWidth="145.0" text="Delete Form" />
+            <ComboBox fx:id="areaClassBox" layoutX="418.0" layoutY="8.0" prefWidth="180.0" promptText="--Select--" />
+            <Label layoutX="344.0" layoutY="12.0" prefHeight="17.0" prefWidth="62.0" text="Area Class" />
+            <TitledPane animated="false" layoutX="14.0" layoutY="39.0" prefHeight="202.0" prefWidth="960.0" text="Owner - General ">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="148.0" prefWidth="958.0">
+                     <children>
+                        <Label layoutX="55.0" layoutY="9.0" text="Owner Name" />
+                        <Label layoutX="405.0" layoutY="68.0" text="Citizenship No #" />
+                        <Label layoutX="56.0" layoutY="68.0" text="Calling Name" />
+                        <Label layoutX="405.0" layoutY="6.0" text="Gender" />
+                        <Label layoutX="407.0" layoutY="123.0" text="Citizenship District" />
+                        <Label layoutX="721.0" layoutY="6.0" text="Ethnicity" />
+                        <TextField fx:id="citizenshipNo" layoutX="405.0" layoutY="86.0" prefWidth="180.0" />
+                        <ComboBox fx:id="genderBox" layoutX="405.0" layoutY="25.0" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                        <ComboBox fx:id="ethnicityBox" layoutX="721.0" layoutY="24.0" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                        <ComboBox fx:id="citizenshipDistrictBox" layoutX="405.0" layoutY="142.0" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                        <TextField fx:id="ownerName" layoutX="55.0" layoutY="27.0" prefHeight="25.0" prefWidth="180.0" />
+                        <TextField fx:id="callingName" layoutX="56.0" layoutY="87.0" prefHeight="25.0" prefWidth="180.0" />
+                        <Label layoutX="723.0" layoutY="67.0" text="Target Group" />
+                        <ComboBox fx:id="targetGroupBox" layoutX="721.0" layoutY="86.0" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                        <Label layoutX="57.0" layoutY="122.0" text="Owner - Mobile No #" />
+                        <TextField fx:id="ownerMobileNo" layoutX="57.0" layoutY="140.0" prefWidth="180.0" />
+                     </children>
+                  </AnchorPane>
+               </content>
+            </TitledPane>
+            <TitledPane animated="false" layoutX="14.0" layoutY="386.0" prefHeight="137.0" prefWidth="960.0" text="Address (हाल)">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="99.0" prefWidth="958.0">
+                     <children>
+                        <Label layoutX="405.0" layoutY="2.0" text="Ward No #" />
+                        <TextField fx:id="addressVP_NP_WardNo" layoutX="405.0" layoutY="20.0" prefWidth="180.0" />
+                        <Label layoutX="61.0" layoutY="6.0" text="District" />
+                        <Label layoutX="61.0" layoutY="58.0" text="VP/NP" />
+                        <Label layoutX="405.0" layoutY="56.0" text="Village" />
+                        <TextField fx:id="addressVP_NP_Village" layoutX="405.0" layoutY="74.0" prefWidth="180.0" />
+                        <ComboBox fx:id="districtBox" layoutX="60.0" layoutY="23.0" onAction="#districtComboChanged" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                        <ComboBox fx:id="vpnpBox" layoutX="60.0" layoutY="77.0" onAction="#districtComboChanged" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                     </children>
+                  </AnchorPane>
+               </content>
+            </TitledPane>
+            <TitledPane animated="false" layoutX="14.0" layoutY="535.0" prefHeight="84.0" prefWidth="960.0" text="Address (साविक)">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="59.0" prefWidth="958.0">
+                     <children>
+                        <Label layoutX="405.0" layoutY="5.0" text="Ward No #" />
+                        <Label layoutX="727.0" layoutY="6.0" text="Village" />
+                        <TextField fx:id="addressVDC_NP_WardNo" layoutX="405.0" layoutY="23.0" prefWidth="180.0" />
+                        <TextField fx:id="addressVDC_NP_Village" layoutX="727.0" layoutY="24.0" prefWidth="180.0" />
+                        <Label layoutX="60.0" layoutY="5.0" text="VDC/NP" />
+                        <ComboBox fx:id="vdcnpBox" layoutX="60.0" layoutY="23.0" prefHeight="25.0" prefWidth="180.0" promptText="-- Select --" />
+                     </children>
+                  </AnchorPane>
+               </content>
+            </TitledPane>
+            <Button fx:id="btnNext" layoutX="869.0" layoutY="628.0" mnemonicParsing="false" onAction="#submitAction" prefHeight="30.0" prefWidth="98.0" style="-fx-background-color: #42bcf4;" text="Next" textFill="#fcfcfc" />
+            <TitledPane animated="false" layoutX="14.0" layoutY="251.0" prefHeight="126.0" prefWidth="960.0" text="Owner - Additional">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="148.0" prefWidth="958.0">
+                     <children>
+                        <Label layoutX="57.0" layoutY="4.0" text="Husband/Father Name" />
+                        <Label layoutX="404.0" layoutY="2.0" text="Neighbour Name" />
+                        <TextField fx:id="neighbourName" layoutX="405.0" layoutY="20.0" prefWidth="180.0" />
+                        <TextField fx:id="husbandFatherName" layoutX="58.0" layoutY="22.0" prefWidth="180.0" />
+                        <Label layoutX="58.0" layoutY="52.0" text="HF - Mobile No#" />
+                        <TextField fx:id="hfMobileNo" layoutX="59.0" layoutY="70.0" prefWidth="180.0" />
+                        <Label layoutX="404.0" layoutY="51.0" text="Neighbour - Mobile No#" />
+                        <TextField fx:id="neighbourMobileNo" layoutX="405.0" layoutY="69.0" prefWidth="180.0" />
+                     </children>
+                  </AnchorPane>
+               </content>
+            </TitledPane>
+            <Label layoutX="13.0" layoutY="13.0" prefHeight="17.0" prefWidth="63.0" text="Solar ID" />
+            <TextField fx:id="solarId" layoutX="69.0" layoutY="9.0" prefHeight="25.0" prefWidth="180.0" />
+         </children>
+      </AnchorPane>
+   </content>
+</ScrollPane>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:id="dashboard" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.rocketstove.DashboardController">
+    <children>
+        <HBox prefWidth="1000.0">
+            <children>
+                <AnchorPane style="-fx-background-color: #1D2025;">
+                    <children>
+                        <VBox prefHeight="600.0" prefWidth="255.0">
+                            <children>
+                                <Pane prefHeight="108.0" prefWidth="255.0" />
+                                <JFXButton fx:id="homeBtn" alignment="BASELINE_LEFT" graphicTextGap="15.0" onAction="#onHomeBtnClick" prefHeight="60.0" prefWidth="255.0" text="Home" textFill="#e8e6e6">
+                                    <font>
+                                        <Font size="16.0" />
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets />
+                                    </VBox.margin>
+                                    <graphic>
+                                        <FontAwesomeIconView glyphName="ROCKET" size="20">
+                                            <font>
+                                                <Font size="16.0" />
+                                            </font>
+                                        </FontAwesomeIconView>
+                                    </graphic>
+                                </JFXButton>
+                                <JFXButton fx:id="reviewBtn" alignment="BASELINE_LEFT" graphicTextGap="15.0" onAction="#onReviewBtnClicked" prefHeight="60.0" prefWidth="255.0" text="Review" textFill="#e8e6e6">
+                                    <font>
+                                        <Font size="16.0" />
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets />
+                                    </VBox.margin>
+                                    <graphic>
+                                        <FontAwesomeIconView glyphName="FILE_TEXT_ALT" size="20" />
+                                    </graphic>
+                                </JFXButton>
+                                <JFXButton fx:id="automationBtn" alignment="BASELINE_LEFT" graphicTextGap="15.0" onAction="#onAutomationBtnClicked" prefHeight="60.0" prefWidth="255.0" text="Automation" textFill="#e8e6e6">
+                                    <font>
+                                        <Font size="16.0" />
+                                    </font>
+                                    <VBox.margin>
+                                        <Insets />
+                                    </VBox.margin>
+                                    <graphic>
+                                        <FontAwesomeIconView glyphName="TASKS" size="20" />
+                                    </graphic>
+                                </JFXButton>
+                                <JFXButton fx:id="failedSormSubmission" alignment="BASELINE_LEFT" graphicTextGap="15.0" onAction="#onFailedSubmissionBtnClicked" prefHeight="60.0" prefWidth="255.0" text="Failed Form(s)" textFill="#e8e6e6">
+                                    <font>
+                                        <Font size="16.0" />
+                                    </font>
+                                    <graphic>
+                                        <FontAwesomeIconView glyphName="BOLT" size="20" />
+                                    </graphic>
+                                </JFXButton>
+                                <JFXButton fx:id="submittedForm" alignment="BASELINE_LEFT" graphicTextGap="15.0" onAction="#onSubmittedClicked" prefHeight="60.0" prefWidth="255.0" text="Succeeded Form(s)" textFill="#e8e6e6">
+                                    <font>
+                                        <Font size="16.0" />
+                                    </font>
+                                    <graphic>
+                                        <FontAwesomeIconView glyphName="CALENDAR_CHECK_ALT" size="20" />
+                                    </graphic>
+                                </JFXButton>
+                            </children>
+                            <padding>
+                                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                            </padding>
+                        </VBox>
+                    </children>
+                </AnchorPane>
+                <AnchorPane id="Content" minHeight="-1.0" minWidth="-1.0">
+                    <children>
+                        <VBox fx:id="main_content" prefHeight="600.0" prefWidth="745.0">
+                     
+                        </VBox>
+                    </children>
+                </AnchorPane>
+            </children>
+        </HBox>
+    </children>
+</VBox>

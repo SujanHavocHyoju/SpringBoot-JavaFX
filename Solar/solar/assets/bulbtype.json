@@ -1,0 +1,17 @@
+[
+	{
+		"bulbId": "0",
+		"bulbName": "--Select--",
+		"bulbListId":"mainContentPlaceHolder_cb_BULB_chzn_o_0"
+	},
+	{
+		"bulbId": "1",
+		"bulbName": "W-LED",
+		"bulbListId":"mainContentPlaceHolder_cb_BULB_chzn_o_1"
+	},
+	{
+		"bulbId": "2",
+		"bulbName": "Other",
+		"bulbListId":"mainContentPlaceHolder_cb_BULB_chzn_o_2"
+	}
+]
